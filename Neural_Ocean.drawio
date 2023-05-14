@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" modified="2023-05-14T07:07:31.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="U7GwosMvnQGcY2yKqnnE" version="21.3.0" type="github">
+  <diagram name="Page-1" id="4you2VXVSH5_qT_RQgIy">
+    <mxGraphModel dx="1290" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-1" target="FkuzyCJ1QY8R3zCQ5K-x-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-1" target="FkuzyCJ1QY8R3zCQ5K-x-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-1" target="FkuzyCJ1QY8R3zCQ5K-x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-1" value="Data Acquisition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-3" target="FkuzyCJ1QY8R3zCQ5K-x-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-3" value="Image Denoising Using Dark Channel Prior" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-5" target="FkuzyCJ1QY8R3zCQ5K-x-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-5" value="Data Preprocessing and Feature&lt;br&gt;&amp;nbsp;Selection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-6" target="FkuzyCJ1QY8R3zCQ5K-x-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-6" value="Rule Based &lt;br&gt;Classifier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-8" value="Underwater Waste Detection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-9" value="Water Potability" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="48" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-10" value="Water Quality Assessment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="118" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-15" target="FkuzyCJ1QY8R3zCQ5K-x-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-15" value="Training the YoloV8 model on our denoised image dataset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-16" target="FkuzyCJ1QY8R3zCQ5K-x-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-16" value="Training the dataset using xgboost algorithm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-22" target="FkuzyCJ1QY8R3zCQ5K-x-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-22" value="Testing the model on test data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkuzyCJ1QY8R3zCQ5K-x-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-23" value="Evaluating the model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-26" value="Output image with bounding boxes and detected classes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-29" value="Output label" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FkuzyCJ1QY8R3zCQ5K-x-31" value="Output label" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
