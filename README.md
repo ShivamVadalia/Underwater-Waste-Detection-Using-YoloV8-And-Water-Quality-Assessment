@@ -59,3 +59,4 @@ Underwater Waste Detection Using YoloV8
 
  - [YoloV8 Training Notebook by Roboflow](https://github.com/roboflow/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb)
  - [Architecture of YoloV8](https://blog.roboflow.com/whats-new-in-yolov8/)
+ - [Single Image Haze Removal Using Dark Channel Prior](https://projectsweb.cs.washington.edu/research/insects/CVPR2009/award/hazeremv_drkchnl.pdf)
