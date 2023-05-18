@@ -9,7 +9,8 @@ The project addresses the issue of growing underwater waste in oceans and seas. 
 ## Authors
 
 - [@ShivamVadalia](https://github.com/ShivamVadalia)
-- [@SiddharthChavan23](https://github.com/SiddharthChavan23)
+- [@SiddharthChavan](https://github.com/SiddharthChavan23)
+- [@KrunalBhere](https://github.com/MORGUE28)
 
 ## Demo
 Underwater Waste Detection Using YoloV8
