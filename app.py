@@ -6,7 +6,6 @@ import inference as inf
 
 # Function to remove noise from an image
 def remove_noise(image):
-    # Replace this with your noise removal code
     processed_image, alpha_map = dcp.haze_removal(image, w_size=15, a_omega=0.95, gf_w_size=200, eps=1e-6)
     return processed_image
 
